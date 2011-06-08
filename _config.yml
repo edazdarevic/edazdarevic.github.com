@@ -1,0 +1,17 @@
+title: "edazdarevic's Blog"
+url: "http://edazdarevic.github.com"
+author: "Edin Dazdarevic"
+email: "edin.dazdarevic@gmail.com"
+description: "edazdarevic's Blog"
+
+auto: false
+source: .
+paginate: 10
+permalink: /:year/:month/:title
+
+markdown: rdiscount
+pygments: false
+
+exclude:
+  - README.markdown
+  - _drafts
